@@ -1,0 +1,16 @@
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\bossbattles\TheFountainOfObjects\bin\Debug\net5.0\TheFountainOfObjects.exe
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\bossbattles\TheFountainOfObjects\bin\Debug\net5.0\TheFountainOfObjects.deps.json
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\bossbattles\TheFountainOfObjects\bin\Debug\net5.0\TheFountainOfObjects.runtimeconfig.json
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\bossbattles\TheFountainOfObjects\bin\Debug\net5.0\TheFountainOfObjects.runtimeconfig.dev.json
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\bossbattles\TheFountainOfObjects\bin\Debug\net5.0\TheFountainOfObjects.dll
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\bossbattles\TheFountainOfObjects\bin\Debug\net5.0\ref\TheFountainOfObjects.dll
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\bossbattles\TheFountainOfObjects\bin\Debug\net5.0\TheFountainOfObjects.pdb
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\bossbattles\TheFountainOfObjects\obj\Debug\net5.0\TheFountainOfObjects.csprojAssemblyReference.cache
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\bossbattles\TheFountainOfObjects\obj\Debug\net5.0\TheFountainOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\bossbattles\TheFountainOfObjects\obj\Debug\net5.0\TheFountainOfObjects.AssemblyInfoInputs.cache
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\bossbattles\TheFountainOfObjects\obj\Debug\net5.0\TheFountainOfObjects.AssemblyInfo.cs
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\bossbattles\TheFountainOfObjects\obj\Debug\net5.0\TheFountainOfObjects.csproj.CoreCompileInputs.cache
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\bossbattles\TheFountainOfObjects\obj\Debug\net5.0\TheFountainOfObjects.dll
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\bossbattles\TheFountainOfObjects\obj\Debug\net5.0\ref\TheFountainOfObjects.dll
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\bossbattles\TheFountainOfObjects\obj\Debug\net5.0\TheFountainOfObjects.pdb
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\bossbattles\TheFountainOfObjects\obj\Debug\net5.0\TheFountainOfObjects.genruntimeconfig.cache

@@ -1,0 +1,32 @@
+C:\Users\aa195\OneDrive\repos\csharpplayersguide\challenges\TheOldRobot\obj\Debug\net5.0\TheOldRobot.csprojAssemblyReference.cache
+C:\Users\aa195\OneDrive\repos\csharpplayersguide\challenges\TheOldRobot\obj\Debug\net5.0\TheOldRobot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aa195\OneDrive\repos\csharpplayersguide\challenges\TheOldRobot\obj\Debug\net5.0\TheOldRobot.AssemblyInfoInputs.cache
+C:\Users\aa195\OneDrive\repos\csharpplayersguide\challenges\TheOldRobot\obj\Debug\net5.0\TheOldRobot.AssemblyInfo.cs
+C:\Users\aa195\OneDrive\repos\csharpplayersguide\challenges\TheOldRobot\obj\Debug\net5.0\TheOldRobot.csproj.CoreCompileInputs.cache
+C:\Users\aa195\OneDrive\repos\csharpplayersguide\challenges\TheOldRobot\bin\Debug\net5.0\TheOldRobot.exe
+C:\Users\aa195\OneDrive\repos\csharpplayersguide\challenges\TheOldRobot\bin\Debug\net5.0\TheOldRobot.deps.json
+C:\Users\aa195\OneDrive\repos\csharpplayersguide\challenges\TheOldRobot\bin\Debug\net5.0\TheOldRobot.runtimeconfig.json
+C:\Users\aa195\OneDrive\repos\csharpplayersguide\challenges\TheOldRobot\bin\Debug\net5.0\TheOldRobot.runtimeconfig.dev.json
+C:\Users\aa195\OneDrive\repos\csharpplayersguide\challenges\TheOldRobot\bin\Debug\net5.0\TheOldRobot.dll
+C:\Users\aa195\OneDrive\repos\csharpplayersguide\challenges\TheOldRobot\bin\Debug\net5.0\ref\TheOldRobot.dll
+C:\Users\aa195\OneDrive\repos\csharpplayersguide\challenges\TheOldRobot\bin\Debug\net5.0\TheOldRobot.pdb
+C:\Users\aa195\OneDrive\repos\csharpplayersguide\challenges\TheOldRobot\obj\Debug\net5.0\TheOldRobot.dll
+C:\Users\aa195\OneDrive\repos\csharpplayersguide\challenges\TheOldRobot\obj\Debug\net5.0\ref\TheOldRobot.dll
+C:\Users\aa195\OneDrive\repos\csharpplayersguide\challenges\TheOldRobot\obj\Debug\net5.0\TheOldRobot.pdb
+C:\Users\aa195\OneDrive\repos\csharpplayersguide\challenges\TheOldRobot\obj\Debug\net5.0\TheOldRobot.genruntimeconfig.cache
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\TheOldRobot\bin\Debug\net5.0\TheOldRobot.exe
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\TheOldRobot\bin\Debug\net5.0\TheOldRobot.deps.json
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\TheOldRobot\bin\Debug\net5.0\TheOldRobot.runtimeconfig.json
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\TheOldRobot\bin\Debug\net5.0\TheOldRobot.runtimeconfig.dev.json
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\TheOldRobot\bin\Debug\net5.0\TheOldRobot.dll
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\TheOldRobot\bin\Debug\net5.0\ref\TheOldRobot.dll
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\TheOldRobot\bin\Debug\net5.0\TheOldRobot.pdb
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\TheOldRobot\obj\Debug\net5.0\TheOldRobot.csprojAssemblyReference.cache
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\TheOldRobot\obj\Debug\net5.0\TheOldRobot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\TheOldRobot\obj\Debug\net5.0\TheOldRobot.AssemblyInfoInputs.cache
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\TheOldRobot\obj\Debug\net5.0\TheOldRobot.AssemblyInfo.cs
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\TheOldRobot\obj\Debug\net5.0\TheOldRobot.csproj.CoreCompileInputs.cache
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\TheOldRobot\obj\Debug\net5.0\TheOldRobot.dll
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\TheOldRobot\obj\Debug\net5.0\ref\TheOldRobot.dll
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\TheOldRobot\obj\Debug\net5.0\TheOldRobot.pdb
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\TheOldRobot\obj\Debug\net5.0\TheOldRobot.genruntimeconfig.cache

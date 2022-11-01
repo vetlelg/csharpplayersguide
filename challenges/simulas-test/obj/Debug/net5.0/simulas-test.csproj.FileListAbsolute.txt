@@ -1,0 +1,16 @@
+C:\repos\csharpplayersguide\challenges\simulas-test\bin\Debug\net5.0\simulas-test.exe
+C:\repos\csharpplayersguide\challenges\simulas-test\bin\Debug\net5.0\simulas-test.deps.json
+C:\repos\csharpplayersguide\challenges\simulas-test\bin\Debug\net5.0\simulas-test.runtimeconfig.json
+C:\repos\csharpplayersguide\challenges\simulas-test\bin\Debug\net5.0\simulas-test.runtimeconfig.dev.json
+C:\repos\csharpplayersguide\challenges\simulas-test\bin\Debug\net5.0\simulas-test.dll
+C:\repos\csharpplayersguide\challenges\simulas-test\bin\Debug\net5.0\ref\simulas-test.dll
+C:\repos\csharpplayersguide\challenges\simulas-test\bin\Debug\net5.0\simulas-test.pdb
+C:\repos\csharpplayersguide\challenges\simulas-test\obj\Debug\net5.0\simulas-test.csprojAssemblyReference.cache
+C:\repos\csharpplayersguide\challenges\simulas-test\obj\Debug\net5.0\simulas-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\csharpplayersguide\challenges\simulas-test\obj\Debug\net5.0\simulas-test.AssemblyInfoInputs.cache
+C:\repos\csharpplayersguide\challenges\simulas-test\obj\Debug\net5.0\simulas-test.AssemblyInfo.cs
+C:\repos\csharpplayersguide\challenges\simulas-test\obj\Debug\net5.0\simulas-test.csproj.CoreCompileInputs.cache
+C:\repos\csharpplayersguide\challenges\simulas-test\obj\Debug\net5.0\simulas-test.dll
+C:\repos\csharpplayersguide\challenges\simulas-test\obj\Debug\net5.0\ref\simulas-test.dll
+C:\repos\csharpplayersguide\challenges\simulas-test\obj\Debug\net5.0\simulas-test.pdb
+C:\repos\csharpplayersguide\challenges\simulas-test\obj\Debug\net5.0\simulas-test.genruntimeconfig.cache

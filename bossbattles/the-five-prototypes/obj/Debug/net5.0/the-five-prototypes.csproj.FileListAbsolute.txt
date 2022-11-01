@@ -1,0 +1,16 @@
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\bossbattles\the-five-prototypes\bin\Debug\net5.0\the-five-prototypes.exe
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\bossbattles\the-five-prototypes\bin\Debug\net5.0\the-five-prototypes.deps.json
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\bossbattles\the-five-prototypes\bin\Debug\net5.0\the-five-prototypes.runtimeconfig.json
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\bossbattles\the-five-prototypes\bin\Debug\net5.0\the-five-prototypes.runtimeconfig.dev.json
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\bossbattles\the-five-prototypes\bin\Debug\net5.0\the-five-prototypes.dll
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\bossbattles\the-five-prototypes\bin\Debug\net5.0\ref\the-five-prototypes.dll
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\bossbattles\the-five-prototypes\bin\Debug\net5.0\the-five-prototypes.pdb
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\bossbattles\the-five-prototypes\obj\Debug\net5.0\the-five-prototypes.csprojAssemblyReference.cache
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\bossbattles\the-five-prototypes\obj\Debug\net5.0\the-five-prototypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\bossbattles\the-five-prototypes\obj\Debug\net5.0\the-five-prototypes.AssemblyInfoInputs.cache
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\bossbattles\the-five-prototypes\obj\Debug\net5.0\the-five-prototypes.AssemblyInfo.cs
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\bossbattles\the-five-prototypes\obj\Debug\net5.0\the-five-prototypes.csproj.CoreCompileInputs.cache
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\bossbattles\the-five-prototypes\obj\Debug\net5.0\the-five-prototypes.dll
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\bossbattles\the-five-prototypes\obj\Debug\net5.0\ref\the-five-prototypes.dll
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\bossbattles\the-five-prototypes\obj\Debug\net5.0\the-five-prototypes.pdb
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\bossbattles\the-five-prototypes\obj\Debug\net5.0\the-five-prototypes.genruntimeconfig.cache

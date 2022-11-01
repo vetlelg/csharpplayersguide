@@ -1,0 +1,16 @@
+C:\repos\csharpplayersguide\challenges\the-replicator-of-dto\bin\Debug\net5.0\the-replicator-of-dto.exe
+C:\repos\csharpplayersguide\challenges\the-replicator-of-dto\bin\Debug\net5.0\the-replicator-of-dto.deps.json
+C:\repos\csharpplayersguide\challenges\the-replicator-of-dto\bin\Debug\net5.0\the-replicator-of-dto.runtimeconfig.json
+C:\repos\csharpplayersguide\challenges\the-replicator-of-dto\bin\Debug\net5.0\the-replicator-of-dto.runtimeconfig.dev.json
+C:\repos\csharpplayersguide\challenges\the-replicator-of-dto\bin\Debug\net5.0\the-replicator-of-dto.dll
+C:\repos\csharpplayersguide\challenges\the-replicator-of-dto\bin\Debug\net5.0\ref\the-replicator-of-dto.dll
+C:\repos\csharpplayersguide\challenges\the-replicator-of-dto\bin\Debug\net5.0\the-replicator-of-dto.pdb
+C:\repos\csharpplayersguide\challenges\the-replicator-of-dto\obj\Debug\net5.0\the-replicator-of-dto.csprojAssemblyReference.cache
+C:\repos\csharpplayersguide\challenges\the-replicator-of-dto\obj\Debug\net5.0\the-replicator-of-dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\csharpplayersguide\challenges\the-replicator-of-dto\obj\Debug\net5.0\the-replicator-of-dto.AssemblyInfoInputs.cache
+C:\repos\csharpplayersguide\challenges\the-replicator-of-dto\obj\Debug\net5.0\the-replicator-of-dto.AssemblyInfo.cs
+C:\repos\csharpplayersguide\challenges\the-replicator-of-dto\obj\Debug\net5.0\the-replicator-of-dto.csproj.CoreCompileInputs.cache
+C:\repos\csharpplayersguide\challenges\the-replicator-of-dto\obj\Debug\net5.0\the-replicator-of-dto.dll
+C:\repos\csharpplayersguide\challenges\the-replicator-of-dto\obj\Debug\net5.0\ref\the-replicator-of-dto.dll
+C:\repos\csharpplayersguide\challenges\the-replicator-of-dto\obj\Debug\net5.0\the-replicator-of-dto.pdb
+C:\repos\csharpplayersguide\challenges\the-replicator-of-dto\obj\Debug\net5.0\the-replicator-of-dto.genruntimeconfig.cache

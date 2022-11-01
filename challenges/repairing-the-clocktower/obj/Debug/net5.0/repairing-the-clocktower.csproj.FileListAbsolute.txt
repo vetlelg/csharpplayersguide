@@ -1,0 +1,16 @@
+C:\repos\csharpplayersguide\challenges\repairing-the-clocktower\bin\Debug\net5.0\repairing-the-clocktower.exe
+C:\repos\csharpplayersguide\challenges\repairing-the-clocktower\bin\Debug\net5.0\repairing-the-clocktower.deps.json
+C:\repos\csharpplayersguide\challenges\repairing-the-clocktower\bin\Debug\net5.0\repairing-the-clocktower.runtimeconfig.json
+C:\repos\csharpplayersguide\challenges\repairing-the-clocktower\bin\Debug\net5.0\repairing-the-clocktower.runtimeconfig.dev.json
+C:\repos\csharpplayersguide\challenges\repairing-the-clocktower\bin\Debug\net5.0\repairing-the-clocktower.dll
+C:\repos\csharpplayersguide\challenges\repairing-the-clocktower\bin\Debug\net5.0\ref\repairing-the-clocktower.dll
+C:\repos\csharpplayersguide\challenges\repairing-the-clocktower\bin\Debug\net5.0\repairing-the-clocktower.pdb
+C:\repos\csharpplayersguide\challenges\repairing-the-clocktower\obj\Debug\net5.0\repairing-the-clocktower.csprojAssemblyReference.cache
+C:\repos\csharpplayersguide\challenges\repairing-the-clocktower\obj\Debug\net5.0\repairing-the-clocktower.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\csharpplayersguide\challenges\repairing-the-clocktower\obj\Debug\net5.0\repairing-the-clocktower.AssemblyInfoInputs.cache
+C:\repos\csharpplayersguide\challenges\repairing-the-clocktower\obj\Debug\net5.0\repairing-the-clocktower.AssemblyInfo.cs
+C:\repos\csharpplayersguide\challenges\repairing-the-clocktower\obj\Debug\net5.0\repairing-the-clocktower.csproj.CoreCompileInputs.cache
+C:\repos\csharpplayersguide\challenges\repairing-the-clocktower\obj\Debug\net5.0\repairing-the-clocktower.dll
+C:\repos\csharpplayersguide\challenges\repairing-the-clocktower\obj\Debug\net5.0\ref\repairing-the-clocktower.dll
+C:\repos\csharpplayersguide\challenges\repairing-the-clocktower\obj\Debug\net5.0\repairing-the-clocktower.pdb
+C:\repos\csharpplayersguide\challenges\repairing-the-clocktower\obj\Debug\net5.0\repairing-the-clocktower.genruntimeconfig.cache

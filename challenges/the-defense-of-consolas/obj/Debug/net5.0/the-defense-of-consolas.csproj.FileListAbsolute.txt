@@ -1,0 +1,16 @@
+C:\repos\csharpplayersguide\challenges\the-defense-of-consolas\bin\Debug\net5.0\the-defense-of-consolas.exe
+C:\repos\csharpplayersguide\challenges\the-defense-of-consolas\bin\Debug\net5.0\the-defense-of-consolas.deps.json
+C:\repos\csharpplayersguide\challenges\the-defense-of-consolas\bin\Debug\net5.0\the-defense-of-consolas.runtimeconfig.json
+C:\repos\csharpplayersguide\challenges\the-defense-of-consolas\bin\Debug\net5.0\the-defense-of-consolas.runtimeconfig.dev.json
+C:\repos\csharpplayersguide\challenges\the-defense-of-consolas\bin\Debug\net5.0\the-defense-of-consolas.dll
+C:\repos\csharpplayersguide\challenges\the-defense-of-consolas\bin\Debug\net5.0\ref\the-defense-of-consolas.dll
+C:\repos\csharpplayersguide\challenges\the-defense-of-consolas\bin\Debug\net5.0\the-defense-of-consolas.pdb
+C:\repos\csharpplayersguide\challenges\the-defense-of-consolas\obj\Debug\net5.0\the-defense-of-consolas.csprojAssemblyReference.cache
+C:\repos\csharpplayersguide\challenges\the-defense-of-consolas\obj\Debug\net5.0\the-defense-of-consolas.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\csharpplayersguide\challenges\the-defense-of-consolas\obj\Debug\net5.0\the-defense-of-consolas.AssemblyInfoInputs.cache
+C:\repos\csharpplayersguide\challenges\the-defense-of-consolas\obj\Debug\net5.0\the-defense-of-consolas.AssemblyInfo.cs
+C:\repos\csharpplayersguide\challenges\the-defense-of-consolas\obj\Debug\net5.0\the-defense-of-consolas.csproj.CoreCompileInputs.cache
+C:\repos\csharpplayersguide\challenges\the-defense-of-consolas\obj\Debug\net5.0\the-defense-of-consolas.dll
+C:\repos\csharpplayersguide\challenges\the-defense-of-consolas\obj\Debug\net5.0\ref\the-defense-of-consolas.dll
+C:\repos\csharpplayersguide\challenges\the-defense-of-consolas\obj\Debug\net5.0\the-defense-of-consolas.pdb
+C:\repos\csharpplayersguide\challenges\the-defense-of-consolas\obj\Debug\net5.0\the-defense-of-consolas.genruntimeconfig.cache

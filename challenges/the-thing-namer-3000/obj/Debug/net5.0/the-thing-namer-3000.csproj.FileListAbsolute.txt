@@ -1,0 +1,16 @@
+C:\repos\csharpplayersguide\challenges\the-thing-namer-3000\obj\Debug\net5.0\the-thing-namer-3000.csprojAssemblyReference.cache
+C:\repos\csharpplayersguide\challenges\the-thing-namer-3000\obj\Debug\net5.0\the-thing-namer-3000.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\csharpplayersguide\challenges\the-thing-namer-3000\obj\Debug\net5.0\the-thing-namer-3000.AssemblyInfoInputs.cache
+C:\repos\csharpplayersguide\challenges\the-thing-namer-3000\obj\Debug\net5.0\the-thing-namer-3000.AssemblyInfo.cs
+C:\repos\csharpplayersguide\challenges\the-thing-namer-3000\obj\Debug\net5.0\the-thing-namer-3000.csproj.CoreCompileInputs.cache
+C:\repos\csharpplayersguide\challenges\the-thing-namer-3000\bin\Debug\net5.0\the-thing-namer-3000.exe
+C:\repos\csharpplayersguide\challenges\the-thing-namer-3000\bin\Debug\net5.0\the-thing-namer-3000.deps.json
+C:\repos\csharpplayersguide\challenges\the-thing-namer-3000\bin\Debug\net5.0\the-thing-namer-3000.runtimeconfig.json
+C:\repos\csharpplayersguide\challenges\the-thing-namer-3000\bin\Debug\net5.0\the-thing-namer-3000.runtimeconfig.dev.json
+C:\repos\csharpplayersguide\challenges\the-thing-namer-3000\bin\Debug\net5.0\the-thing-namer-3000.dll
+C:\repos\csharpplayersguide\challenges\the-thing-namer-3000\bin\Debug\net5.0\ref\the-thing-namer-3000.dll
+C:\repos\csharpplayersguide\challenges\the-thing-namer-3000\bin\Debug\net5.0\the-thing-namer-3000.pdb
+C:\repos\csharpplayersguide\challenges\the-thing-namer-3000\obj\Debug\net5.0\the-thing-namer-3000.dll
+C:\repos\csharpplayersguide\challenges\the-thing-namer-3000\obj\Debug\net5.0\ref\the-thing-namer-3000.dll
+C:\repos\csharpplayersguide\challenges\the-thing-namer-3000\obj\Debug\net5.0\the-thing-namer-3000.pdb
+C:\repos\csharpplayersguide\challenges\the-thing-namer-3000\obj\Debug\net5.0\the-thing-namer-3000.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\repos\csharpplayersguide\challenges\the-magic-cannon\bin\Debug\net5.0\the-magic-cannon.exe
+C:\repos\csharpplayersguide\challenges\the-magic-cannon\bin\Debug\net5.0\the-magic-cannon.deps.json
+C:\repos\csharpplayersguide\challenges\the-magic-cannon\bin\Debug\net5.0\the-magic-cannon.runtimeconfig.json
+C:\repos\csharpplayersguide\challenges\the-magic-cannon\bin\Debug\net5.0\the-magic-cannon.runtimeconfig.dev.json
+C:\repos\csharpplayersguide\challenges\the-magic-cannon\bin\Debug\net5.0\the-magic-cannon.dll
+C:\repos\csharpplayersguide\challenges\the-magic-cannon\bin\Debug\net5.0\ref\the-magic-cannon.dll
+C:\repos\csharpplayersguide\challenges\the-magic-cannon\bin\Debug\net5.0\the-magic-cannon.pdb
+C:\repos\csharpplayersguide\challenges\the-magic-cannon\obj\Debug\net5.0\the-magic-cannon.csprojAssemblyReference.cache
+C:\repos\csharpplayersguide\challenges\the-magic-cannon\obj\Debug\net5.0\the-magic-cannon.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\csharpplayersguide\challenges\the-magic-cannon\obj\Debug\net5.0\the-magic-cannon.AssemblyInfoInputs.cache
+C:\repos\csharpplayersguide\challenges\the-magic-cannon\obj\Debug\net5.0\the-magic-cannon.AssemblyInfo.cs
+C:\repos\csharpplayersguide\challenges\the-magic-cannon\obj\Debug\net5.0\the-magic-cannon.csproj.CoreCompileInputs.cache
+C:\repos\csharpplayersguide\challenges\the-magic-cannon\obj\Debug\net5.0\the-magic-cannon.dll
+C:\repos\csharpplayersguide\challenges\the-magic-cannon\obj\Debug\net5.0\ref\the-magic-cannon.dll
+C:\repos\csharpplayersguide\challenges\the-magic-cannon\obj\Debug\net5.0\the-magic-cannon.pdb
+C:\repos\csharpplayersguide\challenges\the-magic-cannon\obj\Debug\net5.0\the-magic-cannon.genruntimeconfig.cache

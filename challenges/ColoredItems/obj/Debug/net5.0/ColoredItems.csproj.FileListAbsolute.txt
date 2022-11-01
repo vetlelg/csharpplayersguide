@@ -1,0 +1,16 @@
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\ColoredItems\bin\Debug\net5.0\ColoredItems.exe
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\ColoredItems\bin\Debug\net5.0\ColoredItems.deps.json
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\ColoredItems\bin\Debug\net5.0\ColoredItems.runtimeconfig.json
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\ColoredItems\bin\Debug\net5.0\ColoredItems.runtimeconfig.dev.json
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\ColoredItems\bin\Debug\net5.0\ColoredItems.dll
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\ColoredItems\bin\Debug\net5.0\ref\ColoredItems.dll
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\ColoredItems\bin\Debug\net5.0\ColoredItems.pdb
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\ColoredItems\obj\Debug\net5.0\ColoredItems.csprojAssemblyReference.cache
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\ColoredItems\obj\Debug\net5.0\ColoredItems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\ColoredItems\obj\Debug\net5.0\ColoredItems.AssemblyInfoInputs.cache
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\ColoredItems\obj\Debug\net5.0\ColoredItems.AssemblyInfo.cs
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\ColoredItems\obj\Debug\net5.0\ColoredItems.csproj.CoreCompileInputs.cache
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\ColoredItems\obj\Debug\net5.0\ColoredItems.dll
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\ColoredItems\obj\Debug\net5.0\ref\ColoredItems.dll
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\ColoredItems\obj\Debug\net5.0\ColoredItems.pdb
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\ColoredItems\obj\Debug\net5.0\ColoredItems.genruntimeconfig.cache

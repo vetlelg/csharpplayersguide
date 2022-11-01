@@ -1,0 +1,16 @@
+C:\repos\csharpplayersguide\challenges\countdown\bin\Debug\net5.0\countdown.exe
+C:\repos\csharpplayersguide\challenges\countdown\bin\Debug\net5.0\countdown.deps.json
+C:\repos\csharpplayersguide\challenges\countdown\bin\Debug\net5.0\countdown.runtimeconfig.json
+C:\repos\csharpplayersguide\challenges\countdown\bin\Debug\net5.0\countdown.runtimeconfig.dev.json
+C:\repos\csharpplayersguide\challenges\countdown\bin\Debug\net5.0\countdown.dll
+C:\repos\csharpplayersguide\challenges\countdown\bin\Debug\net5.0\ref\countdown.dll
+C:\repos\csharpplayersguide\challenges\countdown\bin\Debug\net5.0\countdown.pdb
+C:\repos\csharpplayersguide\challenges\countdown\obj\Debug\net5.0\countdown.csprojAssemblyReference.cache
+C:\repos\csharpplayersguide\challenges\countdown\obj\Debug\net5.0\countdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\csharpplayersguide\challenges\countdown\obj\Debug\net5.0\countdown.AssemblyInfoInputs.cache
+C:\repos\csharpplayersguide\challenges\countdown\obj\Debug\net5.0\countdown.AssemblyInfo.cs
+C:\repos\csharpplayersguide\challenges\countdown\obj\Debug\net5.0\countdown.csproj.CoreCompileInputs.cache
+C:\repos\csharpplayersguide\challenges\countdown\obj\Debug\net5.0\countdown.dll
+C:\repos\csharpplayersguide\challenges\countdown\obj\Debug\net5.0\ref\countdown.dll
+C:\repos\csharpplayersguide\challenges\countdown\obj\Debug\net5.0\countdown.pdb
+C:\repos\csharpplayersguide\challenges\countdown\obj\Debug\net5.0\countdown.genruntimeconfig.cache

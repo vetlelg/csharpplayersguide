@@ -1,0 +1,16 @@
+C:\repos\csharpplayersguide\challenges\consolas-and-telim\obj\Debug\net5.0\consolas-and-telim.csprojAssemblyReference.cache
+C:\repos\csharpplayersguide\challenges\consolas-and-telim\obj\Debug\net5.0\consolas-and-telim.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\csharpplayersguide\challenges\consolas-and-telim\obj\Debug\net5.0\consolas-and-telim.AssemblyInfoInputs.cache
+C:\repos\csharpplayersguide\challenges\consolas-and-telim\obj\Debug\net5.0\consolas-and-telim.AssemblyInfo.cs
+C:\repos\csharpplayersguide\challenges\consolas-and-telim\obj\Debug\net5.0\consolas-and-telim.csproj.CoreCompileInputs.cache
+C:\repos\csharpplayersguide\challenges\consolas-and-telim\bin\Debug\net5.0\consolas-and-telim.exe
+C:\repos\csharpplayersguide\challenges\consolas-and-telim\bin\Debug\net5.0\consolas-and-telim.deps.json
+C:\repos\csharpplayersguide\challenges\consolas-and-telim\bin\Debug\net5.0\consolas-and-telim.runtimeconfig.json
+C:\repos\csharpplayersguide\challenges\consolas-and-telim\bin\Debug\net5.0\consolas-and-telim.runtimeconfig.dev.json
+C:\repos\csharpplayersguide\challenges\consolas-and-telim\bin\Debug\net5.0\consolas-and-telim.dll
+C:\repos\csharpplayersguide\challenges\consolas-and-telim\bin\Debug\net5.0\ref\consolas-and-telim.dll
+C:\repos\csharpplayersguide\challenges\consolas-and-telim\bin\Debug\net5.0\consolas-and-telim.pdb
+C:\repos\csharpplayersguide\challenges\consolas-and-telim\obj\Debug\net5.0\consolas-and-telim.dll
+C:\repos\csharpplayersguide\challenges\consolas-and-telim\obj\Debug\net5.0\ref\consolas-and-telim.dll
+C:\repos\csharpplayersguide\challenges\consolas-and-telim\obj\Debug\net5.0\consolas-and-telim.pdb
+C:\repos\csharpplayersguide\challenges\consolas-and-telim\obj\Debug\net5.0\consolas-and-telim.genruntimeconfig.cache

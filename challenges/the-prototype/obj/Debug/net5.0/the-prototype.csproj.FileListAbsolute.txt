@@ -1,0 +1,16 @@
+C:\repos\csharpplayersguide\challenges\the-prototype\bin\Debug\net5.0\the-prototype.exe
+C:\repos\csharpplayersguide\challenges\the-prototype\bin\Debug\net5.0\the-prototype.deps.json
+C:\repos\csharpplayersguide\challenges\the-prototype\bin\Debug\net5.0\the-prototype.runtimeconfig.json
+C:\repos\csharpplayersguide\challenges\the-prototype\bin\Debug\net5.0\the-prototype.runtimeconfig.dev.json
+C:\repos\csharpplayersguide\challenges\the-prototype\bin\Debug\net5.0\the-prototype.dll
+C:\repos\csharpplayersguide\challenges\the-prototype\bin\Debug\net5.0\ref\the-prototype.dll
+C:\repos\csharpplayersguide\challenges\the-prototype\bin\Debug\net5.0\the-prototype.pdb
+C:\repos\csharpplayersguide\challenges\the-prototype\obj\Debug\net5.0\the-prototype.csprojAssemblyReference.cache
+C:\repos\csharpplayersguide\challenges\the-prototype\obj\Debug\net5.0\the-prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\csharpplayersguide\challenges\the-prototype\obj\Debug\net5.0\the-prototype.AssemblyInfoInputs.cache
+C:\repos\csharpplayersguide\challenges\the-prototype\obj\Debug\net5.0\the-prototype.AssemblyInfo.cs
+C:\repos\csharpplayersguide\challenges\the-prototype\obj\Debug\net5.0\the-prototype.csproj.CoreCompileInputs.cache
+C:\repos\csharpplayersguide\challenges\the-prototype\obj\Debug\net5.0\the-prototype.dll
+C:\repos\csharpplayersguide\challenges\the-prototype\obj\Debug\net5.0\ref\the-prototype.dll
+C:\repos\csharpplayersguide\challenges\the-prototype\obj\Debug\net5.0\the-prototype.pdb
+C:\repos\csharpplayersguide\challenges\the-prototype\obj\Debug\net5.0\the-prototype.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\RoomCoordinates\bin\Debug\net5.0\RoomCoordinates.exe
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\RoomCoordinates\bin\Debug\net5.0\RoomCoordinates.deps.json
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\RoomCoordinates\bin\Debug\net5.0\RoomCoordinates.runtimeconfig.json
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\RoomCoordinates\bin\Debug\net5.0\RoomCoordinates.runtimeconfig.dev.json
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\RoomCoordinates\bin\Debug\net5.0\RoomCoordinates.dll
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\RoomCoordinates\bin\Debug\net5.0\ref\RoomCoordinates.dll
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\RoomCoordinates\bin\Debug\net5.0\RoomCoordinates.pdb
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\RoomCoordinates\obj\Debug\net5.0\RoomCoordinates.csprojAssemblyReference.cache
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\RoomCoordinates\obj\Debug\net5.0\RoomCoordinates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\RoomCoordinates\obj\Debug\net5.0\RoomCoordinates.AssemblyInfoInputs.cache
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\RoomCoordinates\obj\Debug\net5.0\RoomCoordinates.AssemblyInfo.cs
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\RoomCoordinates\obj\Debug\net5.0\RoomCoordinates.csproj.CoreCompileInputs.cache
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\RoomCoordinates\obj\Debug\net5.0\RoomCoordinates.dll
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\RoomCoordinates\obj\Debug\net5.0\ref\RoomCoordinates.dll
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\RoomCoordinates\obj\Debug\net5.0\RoomCoordinates.pdb
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\RoomCoordinates\obj\Debug\net5.0\RoomCoordinates.genruntimeconfig.cache

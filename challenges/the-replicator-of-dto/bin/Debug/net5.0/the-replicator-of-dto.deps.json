@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "the-replicator-of-dto/1.0.0": {
+        "runtime": {
+          "the-replicator-of-dto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "the-replicator-of-dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

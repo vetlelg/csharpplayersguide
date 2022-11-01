@@ -1,0 +1,56 @@
+[
+    {
+      "name": "TicTacToeGame",
+      "superclasses": "",
+      "subclasses": "",
+      "type": 1,
+      "responsibilities": [
+        "Running the game loop",
+        "Detecting if the game is over"
+      ],
+      "collaborators": [
+        "Player",
+        "Board",
+        "DrawBoard",
+        ""
+      ]
+    },
+    {
+      "name": "Player",
+      "superclasses": "",
+      "subclasses": "",
+      "type": 1,
+      "responsibilities": [
+        "Taking input from the player"
+      ],
+      "collaborators": [
+        "Console"
+      ]
+    },
+    {
+      "name": "Board",
+      "superclasses": "",
+      "subclasses": "",
+      "type": 1,
+      "responsibilities": [
+        "Holding the current state of the game (Which squares are occupied etc.)",
+        "Updating the board, based on the player's choice",
+        ""
+      ],
+      "collaborators": [
+        ""
+      ]
+    },
+    {
+      "name": "DrawBoard",
+      "superclasses": "",
+      "subclasses": "",
+      "type": 1,
+      "responsibilities": [
+        "Drawing the board to console"
+      ],
+      "collaborators": [
+        "Console"
+      ]
+    }
+  ]

@@ -1,0 +1,16 @@
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\vin-fletchers-arrows\bin\Debug\net5.0\vin-fletchers-arrows.exe
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\vin-fletchers-arrows\bin\Debug\net5.0\vin-fletchers-arrows.deps.json
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\vin-fletchers-arrows\bin\Debug\net5.0\vin-fletchers-arrows.runtimeconfig.json
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\vin-fletchers-arrows\bin\Debug\net5.0\vin-fletchers-arrows.runtimeconfig.dev.json
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\vin-fletchers-arrows\bin\Debug\net5.0\vin-fletchers-arrows.dll
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\vin-fletchers-arrows\bin\Debug\net5.0\ref\vin-fletchers-arrows.dll
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\vin-fletchers-arrows\bin\Debug\net5.0\vin-fletchers-arrows.pdb
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\vin-fletchers-arrows\obj\Debug\net5.0\vin-fletchers-arrows.csprojAssemblyReference.cache
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\vin-fletchers-arrows\obj\Debug\net5.0\vin-fletchers-arrows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\vin-fletchers-arrows\obj\Debug\net5.0\vin-fletchers-arrows.AssemblyInfoInputs.cache
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\vin-fletchers-arrows\obj\Debug\net5.0\vin-fletchers-arrows.AssemblyInfo.cs
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\vin-fletchers-arrows\obj\Debug\net5.0\vin-fletchers-arrows.csproj.CoreCompileInputs.cache
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\vin-fletchers-arrows\obj\Debug\net5.0\vin-fletchers-arrows.dll
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\vin-fletchers-arrows\obj\Debug\net5.0\ref\vin-fletchers-arrows.dll
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\vin-fletchers-arrows\obj\Debug\net5.0\vin-fletchers-arrows.pdb
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\vin-fletchers-arrows\obj\Debug\net5.0\vin-fletchers-arrows.genruntimeconfig.cache

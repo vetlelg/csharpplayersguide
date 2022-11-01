@@ -1,0 +1,16 @@
+C:\repos\csharpplayersguide\challenges\challenge\bin\Debug\net5.0\challenge.exe
+C:\repos\csharpplayersguide\challenges\challenge\bin\Debug\net5.0\challenge.deps.json
+C:\repos\csharpplayersguide\challenges\challenge\bin\Debug\net5.0\challenge.runtimeconfig.json
+C:\repos\csharpplayersguide\challenges\challenge\bin\Debug\net5.0\challenge.runtimeconfig.dev.json
+C:\repos\csharpplayersguide\challenges\challenge\bin\Debug\net5.0\challenge.dll
+C:\repos\csharpplayersguide\challenges\challenge\bin\Debug\net5.0\ref\challenge.dll
+C:\repos\csharpplayersguide\challenges\challenge\bin\Debug\net5.0\challenge.pdb
+C:\repos\csharpplayersguide\challenges\challenge\obj\Debug\net5.0\challenge.csprojAssemblyReference.cache
+C:\repos\csharpplayersguide\challenges\challenge\obj\Debug\net5.0\challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\csharpplayersguide\challenges\challenge\obj\Debug\net5.0\challenge.AssemblyInfoInputs.cache
+C:\repos\csharpplayersguide\challenges\challenge\obj\Debug\net5.0\challenge.AssemblyInfo.cs
+C:\repos\csharpplayersguide\challenges\challenge\obj\Debug\net5.0\challenge.csproj.CoreCompileInputs.cache
+C:\repos\csharpplayersguide\challenges\challenge\obj\Debug\net5.0\challenge.dll
+C:\repos\csharpplayersguide\challenges\challenge\obj\Debug\net5.0\ref\challenge.dll
+C:\repos\csharpplayersguide\challenges\challenge\obj\Debug\net5.0\challenge.pdb
+C:\repos\csharpplayersguide\challenges\challenge\obj\Debug\net5.0\challenge.genruntimeconfig.cache

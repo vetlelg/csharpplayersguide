@@ -1,0 +1,16 @@
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\TheRobotPilot\bin\Debug\net5.0\TheRobotPilot.exe
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\TheRobotPilot\bin\Debug\net5.0\TheRobotPilot.deps.json
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\TheRobotPilot\bin\Debug\net5.0\TheRobotPilot.runtimeconfig.json
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\TheRobotPilot\bin\Debug\net5.0\TheRobotPilot.runtimeconfig.dev.json
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\TheRobotPilot\bin\Debug\net5.0\TheRobotPilot.dll
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\TheRobotPilot\bin\Debug\net5.0\ref\TheRobotPilot.dll
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\TheRobotPilot\bin\Debug\net5.0\TheRobotPilot.pdb
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\TheRobotPilot\obj\Debug\net5.0\TheRobotPilot.csprojAssemblyReference.cache
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\TheRobotPilot\obj\Debug\net5.0\TheRobotPilot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\TheRobotPilot\obj\Debug\net5.0\TheRobotPilot.AssemblyInfoInputs.cache
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\TheRobotPilot\obj\Debug\net5.0\TheRobotPilot.AssemblyInfo.cs
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\TheRobotPilot\obj\Debug\net5.0\TheRobotPilot.csproj.CoreCompileInputs.cache
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\TheRobotPilot\obj\Debug\net5.0\TheRobotPilot.dll
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\TheRobotPilot\obj\Debug\net5.0\ref\TheRobotPilot.dll
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\TheRobotPilot\obj\Debug\net5.0\TheRobotPilot.pdb
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\TheRobotPilot\obj\Debug\net5.0\TheRobotPilot.genruntimeconfig.cache

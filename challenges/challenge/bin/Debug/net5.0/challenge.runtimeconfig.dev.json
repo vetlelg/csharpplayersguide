@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vetle\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vetle\\.nuget\\packages"
+    ]
+  }
+}

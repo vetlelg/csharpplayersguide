@@ -1,0 +1,32 @@
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\PackingInventory\bin\Debug\net5.0\PackingInventory.exe
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\PackingInventory\bin\Debug\net5.0\PackingInventory.deps.json
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\PackingInventory\bin\Debug\net5.0\PackingInventory.runtimeconfig.json
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\PackingInventory\bin\Debug\net5.0\PackingInventory.runtimeconfig.dev.json
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\PackingInventory\bin\Debug\net5.0\PackingInventory.dll
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\PackingInventory\bin\Debug\net5.0\ref\PackingInventory.dll
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\PackingInventory\bin\Debug\net5.0\PackingInventory.pdb
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\PackingInventory\obj\Debug\net5.0\PackingInventory.csprojAssemblyReference.cache
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\PackingInventory\obj\Debug\net5.0\PackingInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\PackingInventory\obj\Debug\net5.0\PackingInventory.AssemblyInfoInputs.cache
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\PackingInventory\obj\Debug\net5.0\PackingInventory.AssemblyInfo.cs
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\PackingInventory\obj\Debug\net5.0\PackingInventory.csproj.CoreCompileInputs.cache
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\PackingInventory\obj\Debug\net5.0\PackingInventory.dll
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\PackingInventory\obj\Debug\net5.0\ref\PackingInventory.dll
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\PackingInventory\obj\Debug\net5.0\PackingInventory.pdb
+C:\Users\vetle\OneDrive - vetlelg\OneDrive\repos\csharpplayersguide\challenges\PackingInventory\obj\Debug\net5.0\PackingInventory.genruntimeconfig.cache
+C:\Users\aa195\OneDrive\repos\csharpplayersguide\challenges\PackingInventory\bin\Debug\net5.0\PackingInventory.exe
+C:\Users\aa195\OneDrive\repos\csharpplayersguide\challenges\PackingInventory\bin\Debug\net5.0\PackingInventory.deps.json
+C:\Users\aa195\OneDrive\repos\csharpplayersguide\challenges\PackingInventory\bin\Debug\net5.0\PackingInventory.runtimeconfig.json
+C:\Users\aa195\OneDrive\repos\csharpplayersguide\challenges\PackingInventory\bin\Debug\net5.0\PackingInventory.runtimeconfig.dev.json
+C:\Users\aa195\OneDrive\repos\csharpplayersguide\challenges\PackingInventory\bin\Debug\net5.0\PackingInventory.dll
+C:\Users\aa195\OneDrive\repos\csharpplayersguide\challenges\PackingInventory\bin\Debug\net5.0\ref\PackingInventory.dll
+C:\Users\aa195\OneDrive\repos\csharpplayersguide\challenges\PackingInventory\bin\Debug\net5.0\PackingInventory.pdb
+C:\Users\aa195\OneDrive\repos\csharpplayersguide\challenges\PackingInventory\obj\Debug\net5.0\PackingInventory.csprojAssemblyReference.cache
+C:\Users\aa195\OneDrive\repos\csharpplayersguide\challenges\PackingInventory\obj\Debug\net5.0\PackingInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aa195\OneDrive\repos\csharpplayersguide\challenges\PackingInventory\obj\Debug\net5.0\PackingInventory.AssemblyInfoInputs.cache
+C:\Users\aa195\OneDrive\repos\csharpplayersguide\challenges\PackingInventory\obj\Debug\net5.0\PackingInventory.AssemblyInfo.cs
+C:\Users\aa195\OneDrive\repos\csharpplayersguide\challenges\PackingInventory\obj\Debug\net5.0\PackingInventory.csproj.CoreCompileInputs.cache
+C:\Users\aa195\OneDrive\repos\csharpplayersguide\challenges\PackingInventory\obj\Debug\net5.0\PackingInventory.dll
+C:\Users\aa195\OneDrive\repos\csharpplayersguide\challenges\PackingInventory\obj\Debug\net5.0\ref\PackingInventory.dll
+C:\Users\aa195\OneDrive\repos\csharpplayersguide\challenges\PackingInventory\obj\Debug\net5.0\PackingInventory.pdb
+C:\Users\aa195\OneDrive\repos\csharpplayersguide\challenges\PackingInventory\obj\Debug\net5.0\PackingInventory.genruntimeconfig.cache

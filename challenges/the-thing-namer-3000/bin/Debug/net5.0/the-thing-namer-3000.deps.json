@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "the-thing-namer-3000/1.0.0": {
+        "runtime": {
+          "the-thing-namer-3000.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "the-thing-namer-3000/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\repos\csharpplayersguide\challenges\buying-inventory\bin\Debug\net5.0\buying-inventory.exe
+C:\repos\csharpplayersguide\challenges\buying-inventory\bin\Debug\net5.0\buying-inventory.deps.json
+C:\repos\csharpplayersguide\challenges\buying-inventory\bin\Debug\net5.0\buying-inventory.runtimeconfig.json
+C:\repos\csharpplayersguide\challenges\buying-inventory\bin\Debug\net5.0\buying-inventory.runtimeconfig.dev.json
+C:\repos\csharpplayersguide\challenges\buying-inventory\bin\Debug\net5.0\buying-inventory.dll
+C:\repos\csharpplayersguide\challenges\buying-inventory\bin\Debug\net5.0\ref\buying-inventory.dll
+C:\repos\csharpplayersguide\challenges\buying-inventory\bin\Debug\net5.0\buying-inventory.pdb
+C:\repos\csharpplayersguide\challenges\buying-inventory\obj\Debug\net5.0\buying-inventory.csprojAssemblyReference.cache
+C:\repos\csharpplayersguide\challenges\buying-inventory\obj\Debug\net5.0\buying-inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\csharpplayersguide\challenges\buying-inventory\obj\Debug\net5.0\buying-inventory.AssemblyInfoInputs.cache
+C:\repos\csharpplayersguide\challenges\buying-inventory\obj\Debug\net5.0\buying-inventory.AssemblyInfo.cs
+C:\repos\csharpplayersguide\challenges\buying-inventory\obj\Debug\net5.0\buying-inventory.csproj.CoreCompileInputs.cache
+C:\repos\csharpplayersguide\challenges\buying-inventory\obj\Debug\net5.0\buying-inventory.dll
+C:\repos\csharpplayersguide\challenges\buying-inventory\obj\Debug\net5.0\ref\buying-inventory.dll
+C:\repos\csharpplayersguide\challenges\buying-inventory\obj\Debug\net5.0\buying-inventory.pdb
+C:\repos\csharpplayersguide\challenges\buying-inventory\obj\Debug\net5.0\buying-inventory.genruntimeconfig.cache
